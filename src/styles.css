@@ -1,0 +1,40 @@
+h1,
+h2 {
+    color: #000;
+    text-align: center;
+}
+
+h1 {
+    padding-top: 15px;
+}
+
+.partlycloudyMain {
+    display: block;
+    font-size: 100px;
+    text-align: center;
+}
+
+.city {
+    padding: 20px 0px 0px 0px;
+}
+
+.search {
+    display: inline;
+}
+
+.current {
+    padding: 0 auto;
+    display: block;
+}
+
+.day {
+    font-size: small;
+}
+
+.temp {
+    font-size: smaller;
+}
+
+.forcast {
+    font-size: 20px;
+}
